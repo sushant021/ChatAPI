@@ -1,7 +1,7 @@
 databases:
   - name: mysitedb
     plan: free
-    databaseName: mysite
+    databaseName: mysite_tb54
     user: mysite
 
 services:
