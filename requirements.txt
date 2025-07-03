@@ -5,6 +5,7 @@ annotated-types==0.7.0
 anyio==4.9.0
 asgiref==3.8.1
 attrs==25.3.0
+Brotli==1.1.0
 certifi==2025.6.15
 charset-normalizer==3.4.2
 click==8.2.1
@@ -80,5 +81,6 @@ typing_extensions==4.14.0
 tzdata==2025.2
 urllib3==2.5.0
 uvicorn==0.35.0
+whitenoise==6.9.0
 yarl==1.20.1
 zstandard==0.23.0
